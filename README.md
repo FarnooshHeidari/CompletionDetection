@@ -7,17 +7,17 @@ We present the annotations for completion moments of 16 actions from three datas
 *HMDB-drink*:  the subject starts drinking,  
 *HMDB-pick*: the object is lifted off the surface,  
 *HMDB-pour*: the subject starts pouring,  
-*HMDB-throw*: the object is observed thrown,  
+*HMDB-throw*: the object is observed thrown away,  
   
 *UCF101-basketball*: the ball goes through the hoop,  
 *UCF101-blowing candles*:  all the candles are blown out,  
-*UCF101-frisbee catch*: Frisbee is safely caught,  
+*UCF101-frisbee catch*: Frisbee is caught successfully,  
 *UCF101-pole vault*: the subject jumps over the bar successfully,  
 *UCF101-soccer penalty*: the ball passes the goal line,  
   
 *RGBD-AC-switch*: the room's illumination is changed,  
 *RGBD-AC-plug*:  the plug is observed in the socket,  
-*RGBD-AC-open*: the lid is observed off the jar,  
+*RGBD-AC-open*: the jar's lid is twisted open,  
 *RGBD-AC-pull*: the drawer is pulled open,  
 *RGBD-AC-pick*: the object is lifted off the surface,  
 *RGBD-AC-drink*: the subject starts drinking.  
