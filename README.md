@@ -7,7 +7,7 @@ We present the annotations for completion moments of 16 actions from three datas
 *HMDB-drink*:  the subject starts drinking,  
 *HMDB-pick*: the object is lifted off the surface,  
 *HMDB-pour*: the subject starts pouring,  
-*HMDB-throw*: the object is observed being thrown.  
+*HMDB-throw*: the object is observed thrown.  
   
 *UCF101-basketball*: the ball goes through the hoop,  
 *UCF101-blowing candles*:  all the candles are blown out,  
