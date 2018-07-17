@@ -1,5 +1,5 @@
 # Annotations for Completion Moment Detection
-We present the annotations for completion moments of 16 actions from three datasets.  
+We present the annotations for completion moments of 16 actions from three datasets: HMDB, UCF101, RGBD-AC.  
   
 **Complete action sequences** have been annotated with the completion frame number, representing the moment that:  
   
