@@ -1,7 +1,7 @@
 # Annotations for Completion Moment Detection
 We present the annotations for completion moments of 16 actions from three datasets.  
   
-**Complete actions** have been annotated with the completion frame number, representing the moment that:  
+**Complete action sequences** have been annotated with the completion frame number, representing the moment that:  
   
 **HMDB** (HMDB_completion_moment_annotations.txt)  
 *catch*: the object is safely caught,  
@@ -26,7 +26,7 @@ We present the annotations for completion moments of 16 actions from three datas
 *drink*: the subject starts drinking.  
   
   
-**Incomplete actions** have been annotated with 0.  
+**Incomplete action sequences** have been annotated with 0.  
 Sequences not used for trian/test have been annotated with -1.  
 
 For HMDB and UCF101 datasets, we have used RGB frames available at [https://github.com/feichtenhofer/twostreamfusion](https://github.com/feichtenhofer/twostreamfusion). For RGBD-AC, we have used RGB frames available at [RGBD-Action-Completion-2016 dataset](http://dx.doi.org/10.5523/bris.66qry08cv1fj1eunwxwob3fjz).  
