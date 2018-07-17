@@ -1,4 +1,4 @@
-# Completion Moment Detection
+# Annotations for Completion Moment Detection
 We present the annotations for completion moments of 16 actions from three datasets.  
   
 **Complete actions** have been annotated with the completion frame number, representing the moment that:  
@@ -18,10 +18,10 @@ We present the annotations for completion moments of 16 actions from three datas
 *soccer penalty*: the ball passes the goal line.  
 
 **RGBD-AC** (RGBD-AC_completion_moment_annotations.txt)  
-*switch*: the light is switched off,  
+*switch*: the room's illumination is changed,  
 *plug*:  the plug is observed in the socket,  
 *open*: the lid is observed off the jar,  
-*pull*: the drawer is pulled successfully,  
+*pull*: the drawer is pulled open,  
 *pick*: the object is lifted off the surface,
 *drink*: the subject starts drinking.  
   
