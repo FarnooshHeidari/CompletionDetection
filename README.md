@@ -1,5 +1,5 @@
 # Completion Moment Detection
-We present the annotations for completion moments of 16 actions from three datasets. For more details please read our paper in [here](https://arxiv.org/abs/1805.06749).  
+We present the annotations for completion moments of 16 actions from three datasets as follows:  
   
 **HMDB** -> HMDB_completion_moment_annotations.txt  
 **UCF101** -> UCF101_completion_moment_annotations.txt  
@@ -10,3 +10,5 @@ We have used RGB frames of HMDB and UCF101 available at [https://github.com/feic
 **Complete actions** have been annotated with the completion frame number.  
 **Incomplete actions** have been annotated with 0.  
 Sequences not used for trian/test have been annotated with -1.  
+
+For more details please read our paper in [here](https://arxiv.org/abs/1805.06749).
