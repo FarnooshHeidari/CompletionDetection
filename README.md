@@ -1,4 +1,11 @@
-# Completion Moment Annotations  
+# Action Completion: A temporal model for Moment Detection
+
+This repository contains the completion moment annotations for our BMVC 2018 paper:
+  
+Farnoosh Heidarivincheh, Majid Mirmehdi and Dima Damen.  
+Action Completion: A temporal model for Moment Detection  
+In British Machine Vision Conference (BMVC), 2018  
+  
 We present the annotations for completion moments of 16 actions from three datasets: HMDB, UCF101, RGBD-AC.  
   
 **Complete action sequences** have been annotated with the completion frame number, representing the moment that:  
@@ -27,5 +34,6 @@ We present the annotations for completion moments of 16 actions from three datas
 Sequences not used for trian/test have been annotated with -1.  
 
 For HMDB and UCF101 datasets, we have used RGB frames available at [https://github.com/feichtenhofer/twostreamfusion](https://github.com/feichtenhofer/twostreamfusion). For RGBD-AC, we have used RGB frames available at [RGBD-Action-Completion-2016 dataset](http://dx.doi.org/10.5523/bris.66qry08cv1fj1eunwxwob3fjz).  
+
 
 For more details please read our paper in [here](https://arxiv.org/abs/1805.06749).
