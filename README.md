@@ -4,7 +4,11 @@ We present the annotations for completion moments of 16 actions from three datas
 **Complete actions** have been annotated with the completion frame number, representing the moment that:  
   
 **HMDB** (HMDB_completion_moment_annotations.txt)  
-*catch*: the object is safely caught, *drink*:  the subject starts drinking, *pick*: the object is lifted off the surface, *pour*: the subject starts pouring, *throw*: the object is observed being thrown.  
+*catch*: the object is safely caught,  
+*drink*:  the subject starts drinking,  
+*pick*: the object is lifted off the surface,  
+*pour*: the subject starts pouring,  
+*throw*: the object is observed being thrown.  
 
 **UCF101** (UCF101_completion_moment_annotations.txt)  
 *basketball*: the ball goes through the hoop,  
