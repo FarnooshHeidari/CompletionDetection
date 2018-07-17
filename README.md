@@ -1,19 +1,19 @@
 # Completion Moment Detection
-We present the annotations for completion moments of 16 actions from three datasets as follows:  
+We present the annotations for completion moments of 16 actions from three datasets.  
+  
+**Complete actions** have been annotated with the completion frame number, representing the moment that:  
   
 **HMDB** (HMDB_completion_moment_annotations.txt)  
-  
-The completion moments represent the moment that,  
 *catch*: the object is safely caught, *drink*:  the subject starts drinking, *pick*: the object is lifted off the surface, *pour*: the subject starts pouring, *throw*: the object is observed being thrown.  
 
-**UCF101** (UCF101_completion_moment_annotations.txt) The completion moments represent the moment that,  
+**UCF101** (UCF101_completion_moment_annotations.txt)  
 *basketball*: the ball goes through the hoop,  
 *blowing candles*:  all the candles are blown out,  
 *frisbee catch*: Frisbee is safely caught,  
 *pole vault*: the subject jumps over the bar successfully,  
 *soccer penalty*: the ball passes the goal line.  
 
-**RGBD-AC** (RGBD-AC_completion_moment_annotations.txt) The completion moments represent the moment that,  
+**RGBD-AC** (RGBD-AC_completion_moment_annotations.txt)  
 *switch*: the light is switched off,  
 *plug*:  the plug is observed in the socket,  
 *open*: the lid is observed off the jar,  
@@ -21,7 +21,7 @@ The completion moments represent the moment that,
 *pick*: the object is lifted off the surface,
 *drink*: the subject starts drinking.  
   
-**Complete actions** have been annotated with the completion frame number.  
+  
 **Incomplete actions** have been annotated with 0.  
 Sequences not used for trian/test have been annotated with -1.  
 
