@@ -1,11 +1,27 @@
 # Completion Moment Detection
 We present the annotations for completion moments of 16 actions from three datasets as follows:  
   
-**HMDB** -> HMDB_completion_moment_annotations.txt  
-*catch*: When the object is safely caught, *drink*:  When the subject starts drinking, *pick*: When the object is lifted off the surface, *pour*: When the subject starts pouring, *throw*: When the object is observed being thrown.  
+**HMDB** (HMDB_completion_moment_annotations.txt) The completion moment represents the moment that,  
+*catch*: the object is safely caught,  
+*drink*:  the subject starts drinking,  
+*pick*: the object is lifted off the surface,  
+*pour*: the subject starts pouring,  
+*throw*: the object is observed being thrown.  
 
-**UCF101** -> UCF101_completion_moment_annotations.txt  
-**RGBD-AC** -> RGBD-AC_completion_moment_annotations.txt  
+**UCF101** (UCF101_completion_moment_annotations.txt) The completion moment represents the moment that,  
+*basketball*: the ball goes through the hoop,  
+*blowing candles*:  all the candles are blown out,  
+*frisbee catch*: Frisbee is safely caught,  
+*pole vault*: the subject jumps over the bar successfully,  
+*soccer penalty*: the ball passes the goal line.  
+
+**RGBD-AC** (RGBD-AC_completion_moment_annotations.txt) The completion moment represents the moment that,  
+*switch*: the light is switched off,  
+*plug*:  the plug is observed in the socket,  
+*open*: the lid is observed off the jar,  
+*pull*: the drawer is pulled successfully,  
+*pick*: the object is lifted off the surface,
+*drink*:  the subject starts drinking.  
 
 These annotations are subjective and defined based on application.
   
