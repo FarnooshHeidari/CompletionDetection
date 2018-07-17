@@ -3,27 +3,24 @@ We present the annotations for completion moments of 16 actions from three datas
   
 **Complete action sequences** have been annotated with the completion frame number, representing the moment that:  
   
-**HMDB** (HMDB_completion_moment_annotations.txt)  
-*catch*: the object is safely caught,  
-*drink*:  the subject starts drinking,  
-*pick*: the object is lifted off the surface,  
-*pour*: the subject starts pouring,  
-*throw*: the object is observed being thrown.  
-
-**UCF101** (UCF101_completion_moment_annotations.txt)  
-*basketball*: the ball goes through the hoop,  
-*blowing candles*:  all the candles are blown out,  
-*frisbee catch*: Frisbee is safely caught,  
-*pole vault*: the subject jumps over the bar successfully,  
-*soccer penalty*: the ball passes the goal line.  
-
-**RGBD-AC** (RGBD-AC_completion_moment_annotations.txt)  
-*switch*: the room's illumination is changed,  
-*plug*:  the plug is observed in the socket,  
-*open*: the lid is observed off the jar,  
-*pull*: the drawer is pulled open,  
-*pick*: the object is lifted off the surface,
-*drink*: the subject starts drinking.  
+*HMDB-catch*: the object is safely caught,  
+*HMDB-drink*:  the subject starts drinking,  
+*HMDB-pick*: the object is lifted off the surface,  
+*HMDB-pour*: the subject starts pouring,  
+*HMDB-throw*: the object is observed being thrown.  
+  
+*UCF101-basketball*: the ball goes through the hoop,  
+*UCF101-blowing candles*:  all the candles are blown out,  
+*UCF101-frisbee catch*: Frisbee is safely caught,  
+*UCF101-pole vault*: the subject jumps over the bar successfully,  
+*UCF101-soccer penalty*: the ball passes the goal line.  
+  
+*RGBD-AC-switch*: the room's illumination is changed,  
+*RGBD-AC-plug*:  the plug is observed in the socket,  
+*RGBD-AC-open*: the lid is observed off the jar,  
+*RGBD-AC-pull*: the drawer is pulled open,  
+*RGBD-AC-pick*: the object is lifted off the surface,
+*RGBD-AC-drink*: the subject starts drinking.  
   
   
 **Incomplete action sequences** have been annotated with 0.  
