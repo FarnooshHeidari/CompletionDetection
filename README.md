@@ -1,5 +1,6 @@
 # Completion Moment Detection
-We present the annotations for completion moments of 16 actions from three datasets. For more details please read our [paper](https://arxiv.org/abs/1805.06749).  
+We present the annotations for completion moments of 16 actions from three datasets. For more details please read our paper in [here](https://arxiv.org/abs/1805.06749).  
+  
 **HMDB** -> HMDB_completion_moment_annotations.txt  
 **UCF101** -> UCF101_completion_moment_annotations.txt  
 **RGBD-AC** -> RGBD-AC_completion_moment_annotations.txt  
