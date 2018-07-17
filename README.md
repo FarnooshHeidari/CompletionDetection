@@ -19,7 +19,7 @@ We present the annotations for completion moments of 16 actions from three datas
 *RGBD-AC-plug*:  the plug is observed in the socket,  
 *RGBD-AC-open*: the lid is observed off the jar,  
 *RGBD-AC-pull*: the drawer is pulled open,  
-*RGBD-AC-pick*: the object is lifted off the surface,
+*RGBD-AC-pick*: the object is lifted off the surface,  
 *RGBD-AC-drink*: the subject starts drinking.  
   
   
