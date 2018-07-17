@@ -2,9 +2,9 @@
 
 This repository contains the completion moment annotations for our BMVC 2018 paper:
   
-Farnoosh Heidarivincheh, Majid Mirmehdi and Dima Damen.  
-Action Completion: A temporal model for Moment Detection  
-In British Machine Vision Conference (BMVC), 2018  
+> - Farnoosh Heidarivincheh, Majid Mirmehdi and Dima Damen.  
+> - Action Completion: A temporal model for Moment Detection  
+> - In British Machine Vision Conference (BMVC), 2018  
   
 We present the annotations for completion moments of 16 actions from three datasets: HMDB, UCF101, RGBD-AC.  
   
