@@ -2,8 +2,12 @@
 We present the annotations for completion moments of 16 actions from three datasets as follows:  
   
 **HMDB** -> HMDB_completion_moment_annotations.txt  
+*catch*: When the object is safely caught, *drink*:  When the subject starts drinking, *pick*: When the object is lifted off the surface, *pour*: When the subject starts pouring, *throw*: When the object is observed being thrown.  
+
 **UCF101** -> UCF101_completion_moment_annotations.txt  
 **RGBD-AC** -> RGBD-AC_completion_moment_annotations.txt  
+
+These annotations are subjective and defined based on application.
   
 **Complete actions** have been annotated with the completion frame number.  
 **Incomplete actions** have been annotated with 0.  
