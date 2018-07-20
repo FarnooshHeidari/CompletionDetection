@@ -31,7 +31,7 @@ We present the annotations for completion moments of 16 actions from three datas
   
   
 **Incomplete action sequences** have been annotated with 0.  
-Sequences not used for trian/test have been annotated with -1.  
+Sequences not used for trian/test have been annotated with -1. Note that for HMDB, the provided splits also contain sequences not used in train/test.  
 
 For HMDB and UCF101 datasets, we have used RGB frames available at [https://github.com/feichtenhofer/twostreamfusion#data](https://github.com/feichtenhofer/twostreamfusion#data). For RGBD-AC, we have used RGB frames available at [RGBD-Action-Completion-2016 dataset](http://dx.doi.org/10.5523/bris.66qry08cv1fj1eunwxwob3fjz).  
 
