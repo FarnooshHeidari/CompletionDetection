@@ -18,7 +18,7 @@ When using these annotations, please cite:
   
 This folder includes completion moments of 16 actions from three datasets: HMDB [1], UCF101 [2], RGBD-AC [3].
 
-In each file, lines contain < videoName > <completionAnnotation>
+In each file, lines contain < videoName > \<completionAnnotation\>
   
 **Incomplete action sequences** have been annotated with 0.  
 **Complete action sequences** have been annotated with the completion frame number, representing the moment that:  
