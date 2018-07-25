@@ -19,10 +19,12 @@ When using these annotations, please cite:
 This folder includes completion moments of 16 actions from three datasets: HMDB [1], UCF101 [2], RGBD-AC [3].
 
 In each file, lines contain \<videoName\> \<completionAnnotation\> \<train-test flag per split\>  
-For HMDB and UCF101, the train-test flags match the original dataset splits. For RGBD-AC, they represent 'leave-one-person-out'.  
 
-The train-test flags in each split are presented by numbers (1, 2 and 0) separated with '/'. Flag '1' shows the sequence is used for training, flag '2' shows the sequence is used for testing and flag '0' shows the sequence is not used for training and testing. For example, <1/2/0> means that in split 1 the sequence is used for training, in split 2 the sequence is used for testing and in split 3 the sequence is not used for training and testing.
-  
+**train-test flags:**
+For HMDB and UCF101, the train-test flags match the original dataset splits. For RGBD-AC, they represent 'leave-one-person-out'.  
+The train-test flags in each split are presented by numbers (1, 2 and 0) separated with '/'. Flag '1' shows the sequence is used for training, flag '2' shows the sequence is used for testing and flag '0' shows the sequence is not used for training and testing. For example, <1/2/0> means that in split 1 the sequence is used for training, in split 2 the sequence is used for testing and in split 3 the sequence is not used for training and testing.  
+
+**completionAnnotation:**
 **Incomplete action sequences** have been annotated with 0.  
 **Complete action sequences** have been annotated with the completion frame number, representing the moment that:  
   
