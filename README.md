@@ -58,3 +58,5 @@ References:
 [2] K. Soomro, A. Roshan Zamir, and M. Shah. A dataset of 101 human actions classes from videos in the wild. arXiv preprint arXiv:1212.0402, 2012.
 
 [3] F. Heidarivincheh, M. Mirmehdi, and D. Damen. Beyond action recognition: Action completion in RGB-D data. In BMVC, 2016.
+
+If you have any question, please contact farnoosh.heidarivincheh@bristol.ac.uk
